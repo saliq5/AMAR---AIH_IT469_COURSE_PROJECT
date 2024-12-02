@@ -40,9 +40,16 @@ git clone https://github.com/saliq5/AMAR---AIH_IT469_COURSE_PROJECT
 1. Install Flutter dependencies:  
    ```bash  
    flutter pub get  
-   ```  
+   ```
 
-2. Run the app on an emulator or physical device:  
+2. Rebuild the app:
+   Run the following command to build the app for your target platform (Android/iOS):
+
+   ```bash
+   flutter build <platform>  # Example: flutter build apk for Android
+   ```
+
+3. Run the app on an emulator or physical device:  
    ```bash  
    flutter run  
    ```  
