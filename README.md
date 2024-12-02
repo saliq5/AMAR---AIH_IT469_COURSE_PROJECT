@@ -78,12 +78,6 @@ final uri = Uri.parse("http://<your-backend-host>:<port>");
 
 ---
 
-## License  
-
-This project is licensed under the [MIT License](LICENSE).  
-
----
-
 ## Acknowledgements  
 
 - Dr. Sowmya Kamath (Faculty for IT469)
