@@ -12,7 +12,7 @@
 ---
 
 ## Screenshots  
-![amar_app](http://url/to/img.png)
+![amar_app](app.png)
 
 ---
 
