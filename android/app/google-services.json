@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "923528477101",
+    "project_id": "amar-final",
+    "storage_bucket": "amar-final.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923528477101:android:bf3f87760f37216cc74924",
+        "android_client_info": {
+          "package_name": "com.example.amar_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARUzuVdRncnLtP8tAFBVHCmcB8unMgfek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
